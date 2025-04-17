@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Vite build output
+dist/
+
+# Vite cache
+.vite/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# dotenv
+.env
