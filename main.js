@@ -1,3 +1,5 @@
-const name = 'Yulia';
+const btn = document.querySelector('button');
 
-console.log(name);
+btn.addEventListener('click', () => {
+  window.alert('You just stole my horse! Give it back!');
+});
